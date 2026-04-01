@@ -1,11 +1,9 @@
+streamlit
 numpy
-scipy
-tensorflow
-librosa
-soundfile
-scikit-learn
+pandas
 matplotlib
 seaborn
-jupyter
-ipykernel
-streamlit
+scikit-learn
+scipy
+librosa
+soundfile
